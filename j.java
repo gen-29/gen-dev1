@@ -1,3 +1,2 @@
 hii
-im preparing devops
 
